@@ -23,3 +23,95 @@ header h1, header img{
     vertical-align: middle;
 }
 
+.container{
+    background-color: white;
+    width: 70%;
+    margin: 0 auto;
+}
+
+hr{
+    width: 1075px;    
+    margin-top: 10px;
+}
+
+.task{
+    background-color: #45ABEB;
+    border-radius: 5px;
+    padding: 3px;
+    color: white;
+}
+
+.section{
+    background-color: white;
+    padding: 3px;
+    color: grey;
+    border-radius: 5px;
+}
+
+#liste-container{
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+ul, ol{
+    margin-left: 17px;
+    list-style: none; /*tolgo lo stile e i pallini dalla lista*/
+}
+
+li{
+    margin-bottom: 10px;
+    font-size: 17px;
+    vertical-align: middle;
+}
+
+.done{
+    display: inline-block; 
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px; 
+}
+
+.green{
+    color: green;
+    border-color: green;
+}
+
+.red{
+    color: red;
+    border-color: red;
+}
+
+.setting{
+    border-radius: 5px;
+    padding: 3px;
+    color: white;
+    border: 20px;
+}
+
+.editorial-blu{
+    background-color: #45ABEB;
+}
+
+.q1-goals{
+    background-color: #9C72E4;
+}
+
+.recruiting{
+    background-color: green;
+}
+
+.mobile{
+    background-color: orange;
+}
+
+.website{
+    background-color: pink;
+}
+
+.sales{
+    background-color: greenyellow;
+}
